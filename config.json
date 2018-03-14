@@ -29,9 +29,7 @@
                 "networks": [
                     "facebook",
                     "twitter",
-                    "pinterest",
-                    "google-plus",
-                    "linkedin"
+                    "pinterest"
                 ],
                 "domain": "videos.project1515.com"
             }
