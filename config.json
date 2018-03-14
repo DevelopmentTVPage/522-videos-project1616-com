@@ -10,31 +10,19 @@
         "loginId": "1758823",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "project1616.com"
-    },
-    "tvpageEnabled": false,
-    "hugoDataCreated": false,
-    "hugoDataWidgetCreated": false,
-    "embedDataCreated": false,
-    "deployed": false,
-    "hugoType": "",
-    "domainReady": false,
-    "templatesVersion": "75cc4b24a8652ed717b8a36638d90e560bb44c67",
-    "cookieDomain": "project1616.com",
-    "gitRepo": "git:\/\/github.com\/DevelopmentTVPage\/522-videos-project1616-com.git",
-    "firstPartyCookies": true,
-    "player": {
-        "sharing": {
-            "enabled": true,
-            "networks": [
-                "facebook",
-                "twitter",
-                "pinterest",
-                "google-plus",
-                "linkedin",
-                "email"
-            ],
-            "domain": "videos.project1515.com"
+        "cookiedomain": "project1616.com",
+        "0": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin"
+                ],
+                "domain": "videos.project1515.com"
+            }
         }
     }
 }
